@@ -29,6 +29,9 @@ jobs:
       - name: Sync upstream
         run: scripts/sync-upstream.sh
 
+      - name: Sync vendor rules
+        run: scripts/sync-vendor-rules.sh
+
       - name: Commit and push changes
         run: |
           if [[ -z "$(git status --porcelain)" ]]; then
@@ -37,5 +40,9 @@ jobs:
           fi
 
           git add -A
-          git commit -m "sync: upstream ${SYNCED_UPSTREAM_COMMIT}"
+          if [[ -n "${SYNCED_UPSTREAM_COMMIT:-}" ]]; then
+            git commit -m "sync: upstream ${SYNCED_UPSTREAM_COMMIT}"
+          else
+            git commit -m "sync: vendor rules"
+          fi
           git push origin HEAD:master
