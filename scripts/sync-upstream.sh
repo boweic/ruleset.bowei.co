@@ -35,6 +35,7 @@ rsync -a --delete \
   --exclude ".github/" \
   --exclude "scripts/" \
   --exclude "$SYNC_STATE_FILE" \
+  --exclude "vendor-rules.conf" \
   --exclude "CNAME" \
   --exclude "List/add-on/" \
   --exclude "Clash/add-on/" \
