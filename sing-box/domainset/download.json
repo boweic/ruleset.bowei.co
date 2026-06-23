@@ -565,6 +565,7 @@
         "amupdatedl.microsoft.com",
         "packages.microsoft.com",
         "cdn.winget.microsoft.com",
+        "builds.dotnet.microsoft.com",
         "msdl.microsoft.com",
         "mcr.microsoft.com",
         "mirrors.liquidweb.com",
