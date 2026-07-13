@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-07-13T08:28:16.479Z
-# Size: 76088
+# Last Updated: 2026-07-13T14:23:15.851Z
+# Size: 76086
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6744,6 +6744,7 @@
 +.ads.sup.com
 +.ads.tbs.com
 +.ads.tiki.vn
++.ads.tvpl.vn
 +.ads.wapx.cn
 +.ads.wwe.biz
 +.ads.xtra.ca
@@ -15141,7 +15142,6 @@ scx.ddns.net
 +.d-markets.net
 +.d.adxcore.com
 +.d08l9a634.com
-+.d4cxdtup9.com
 +.dab.rus-km.ru
 +.dabiaozhi.com
 +.dacdn.vwo.com
@@ -18175,7 +18175,6 @@ scx.ddns.net
 +.vps8449vn.com
 +.vrichshop.com
 +.vtdpgbank.com
-+.vvogrqq6r.com
 +.vxcholycr.com
 +.vxumftnoc.net
 +.vzarabotke.ru
@@ -21082,7 +21081,6 @@ scx.ddns.net
 +.justhookup.com
 +.justwebads.com
 +.juttonight.com
-+.jyhtexckqb.com
 +.jynp9m209p.com
 +.k-analytix.com
 +.k5ads.osdn.com
@@ -42026,6 +42024,7 @@ oceansail.ddns.net
 +.quietyellowday.com
 +.quintelligence.com
 +.quodvmljwdqec.site
++.quorumsfinesse.cfd
 +.quotedrigorous.com
 +.qupnxsdvarzew.site
 +.quxgijjahdogb.site
@@ -45156,7 +45155,6 @@ oceansail.ddns.net
 +.caehtveorphwc.space
 +.cafhanoi.dorps.info
 +.cahootsmagazine.com
-+.caissonlatitat.qpon
 +.calcifychiasma.cyou
 +.caljdjxsfofll.store
 +.call-tracking.co.uk
@@ -47240,6 +47238,7 @@ eu-ubqpool.ddns.net
 +.kemrrbjymzwaa.space
 +.kepqkimmiqcjp.space
 +.kesahhvpkvzzg.store
++.keukzdjaxsnjx.space
 +.kexycmxrvipfh.space
 +.kexylqmzedtiz.space
 +.keywordstrategy.org
@@ -68350,7 +68349,6 @@ openburstpool.ddns.net
 +.analytics.vackertvader.se
 +.analytics.vodafone.com.au
 +.analytics.whatculture.com
-+.anarchchauvinbaubles.cyou
 +.andr0id.traffic-smart.com
 +.angrilyanimatorcuddle.com
 +.angrymarketingprecise.com
