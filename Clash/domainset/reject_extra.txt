@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-08-10T06:42:38.248Z
-# Size: 97108
+# Last Updated: 2026-08-10T15:27:44.649Z
+# Size: 97109
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -32,7 +32,7 @@
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt
 #   - https://urlhaus-filter.pages.dev/urlhaus-filter-domains-online.txt
 #
-# $content-hash-v1$:u8ViKsol7bXv7k6W7di9KFoxRhR38_hSTi4dbIWJNYg$
+# $content-hash-v1$:tRhmICK5_Wjxzan25nnDVNIP3EuuzNx-Q2Vrhq5q4JQ$
 #########################################
 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 +.4.fo
@@ -5930,6 +5930,7 @@
 +.sexchat.hu
 +.sexiba.com
 +.sez-pr.com
++.sflryh.com
 +.sfsrch.com
 +.sgguyi.org
 +.shafou.com
@@ -13034,7 +13035,6 @@
 +.oechestra.fr
 +.oeu3it2m.xyz
 +.ofbtrorzo.in
-+.ofdajwabl.in
 +.offer-go.com
 +.offerlink.co
 +.offerx.co.uk
@@ -16855,6 +16855,7 @@ scx.ddns.net
 +.hpthoght.qpon
 +.hromitasa.com
 +.hs-banner.com
++.hsxqoxnuc.com
 +.htaufyjvn.com
 +.htex-panel.at
 +.hthecrown.cfd
@@ -26669,6 +26670,7 @@ scx.ddns.net
 +.coinsforhash.tk
 +.coinsprofit.com
 +.coldpacific.com
++.colesoleus.shop
 +.collect.evdk.dk
 +.collect.rull.dk
 +.color10color.jp
@@ -32647,6 +32649,7 @@ scx.ddns.net
 +.egamiplatform.tv
 +.ehzlb.jivenu.com
 +.eipmjigkkvyq.com
++.ejnjjqepwavf.com
 +.ejxfetghjdmm.com
 +.ekfovqfrgcrg.com
 +.elasticthing.com
@@ -33008,6 +33011,7 @@ scx.ddns.net
 +.geraratarte.shop
 +.gerimpigfoot.com
 +.gestapozulu.qpon
++.gestebirgus.cyou
 +.get-partner.life
 +.get.xclick24.com
 +.getbackstory.com
@@ -33996,7 +34000,6 @@ scx.ddns.net
 +.marparkreefs.com
 +.marramlaevo.qpon
 +.mashinkhabar.com
-+.maskmonopoly.com
 +.massagenexus.com
 +.massiveplace.pro
 +.mastermining.net
@@ -34209,7 +34212,6 @@ scx.ddns.net
 +.mostexchange.com
 +.movieexhibit.com
 +.movies-flix.club
-+.mowrmntkcfuv.com
 +.mozebyctwoje.com
 +.mp.myportrait.de
 +.mp.subservis.com
@@ -34998,7 +35000,6 @@ scx.ddns.net
 +.res.1wcommon.com
 +.res.lintlink.com
 +.resacaduende.com
-+.reseekrepel.shop
 +.resistoverdo.com
 +.resnubdreich.com
 +.resolverroom.com
@@ -35065,6 +35066,7 @@ scx.ddns.net
 +.ruddishwakon.com
 +.rudnik.hopto.org
 +.ruegenfleisch.de
++.rum.aliyuncs.com
 +.rumanalytics.com
 +.runik.beget.tech
 +.rupoolproject.ru
@@ -35858,7 +35860,6 @@ scx.ddns.net
 +.subducgiare.shop
 +.subjectthree.com
 +.sublog-ntflx.com
-+.submisslure.qpon
 +.success-dream.jp
 +.suezbonuses.shop
 +.sugarcurtain.com
@@ -36329,6 +36330,7 @@ scx.ddns.net
 +.unakinloggin.com
 +.unbusytophi.cyou
 +.uncilingalin.com
++.uncrownbarf.qpon
 +.undandinterp.org
 +.undergomason.com
 +.undertheguid.cfd
@@ -37189,6 +37191,7 @@ scx.ddns.net
 +.alpha.iris.com.co
 +.alpha.stoporex.sk
 +.alt-mk-sports.com
++.alviavalerie.cyou
 +.amazementpink.com
 +.amesgraduatel.xyz
 +.ammanparulis.qpon
@@ -39208,6 +39211,7 @@ scx.ddns.net
 +.industries100.com
 +.ineediscounts.com
 +.infcnw.footway.cz
++.infilebivial.shop
 +.infinitetweet.com
 +.infixedderere.com
 +.influxgodless.com
@@ -39363,12 +39367,12 @@ scx.ddns.net
 +.kbyqzt.xxxlutz.cz
 +.kcbelamyyeti.qpon
 +.kcfygvgrrkiig.com
++.kdhrzyrszwzsg.com
 +.keejachidoaze.net
 +.keep-rewards.life
 +.keeptraumatic.com
 +.kelpmetoreali.com
 +.kemqwb.footway.de
-+.ketchwalloch.shop
 +.keyholetroops.com
 +.keystonehoops.com
 +.keywebtracker.com
@@ -42112,6 +42116,7 @@ onlycash.ddns.net
 +.vggvzeedluadp.com
 +.vhskba.mimc.co.jp
 +.vi.zolivexo.store
++.viandcamooch.shop
 +.viatechonline.com
 +.vib-solution.shop
 +.vib-tindung.click
@@ -44392,7 +44397,6 @@ bowserlab.ddns.net
 +.edge.decors.com.br
 +.edge.vitogifts.com
 +.edit-review.online
-+.edomiteaeneid.cyou
 +.edrbkcbxdkbig.site
 +.edshookherhead.org
 +.edubhsffaoqcw.site
@@ -48196,7 +48200,6 @@ oceansail.ddns.net
 +.rrpuoifwzxgkh.site
 +.rs.raed-sports.com
 +.rsbnhruphyuxn.site
-+.rsgiafnwpmlffb.com
 +.rsptkogqvascs.site
 +.rsst.varofoods.com
 +.rt.savemaxauto.com
@@ -48333,6 +48336,7 @@ oceansail.ddns.net
 +.sclvnnorxiotv.site
 +.scnkzannzapes.site
 +.scoietegenerale.fr
++.scornedinseer.shop
 +.scotinoparchy.cyou
 +.scotizefencer.shop
 +.scovelmammoni.cyou
@@ -49122,7 +49126,6 @@ oceansail.ddns.net
 +.stat.familjeliv.se
 +.stat.rolledwil.biz
 +.statementsclaw.com
-+.statersubtype.qpon
 +.static.ad2click.in
 +.static.bat-ads.com
 +.static.bidrich.com
@@ -54242,6 +54245,7 @@ eu-ubqpool.ddns.net
 +.jxljlmikdnsfb.store
 +.jxmofulihtbzr.space
 +.jxyseijobkzzn.space
++.jybrdjpzhrrdz.space
 +.jyczddycqnckw.store
 +.jyfyrcnskjjhy.space
 +.jymswcocmpteo.space
@@ -54389,7 +54393,6 @@ eu-ubqpool.ddns.net
 +.kqauptdrdiyyp.space
 +.kqawipdwetqqd.space
 +.kqwvgzulratqt.space
-+.krfigbmmniqfr.space
 +.krhmtdzuxxmsc.space
 +.krmsqcfoluzxj.space
 +.kryvidmqdmlnm.space
@@ -55669,7 +55672,6 @@ eu-ubqpool.ddns.net
 +.ornnxfsfnkwbs.space
 +.orphanageweight.com
 +.orqbvhkyufnxk.space
-+.orvamgdjbijvb.space
 +.oseveralyearsfo.org
 +.ospkmjsxvihyi.space
 +.otbackstage1.online
@@ -56171,7 +56173,6 @@ eu-ubqpool.ddns.net
 +.qobfocmmyhbaw.space
 +.qojeoccuereut.space
 +.qottubusyheqj.store
-+.qoxkbwbootoaq.space
 +.qoydtxdfmwlwn.store
 +.qozwuskwwzqua.space
 +.qpastswynfzcb.space
@@ -62170,6 +62171,7 @@ eu-nilupool.ddns.net
 +.kiumqkkamhgeq.online
 +.kivkmopakxkwo.online
 +.kiwoejaeqyyjx.online
++.kjkavoimtxart.online
 +.kjmrldarxadmw.online
 +.kkprrvdwybmlz.online
 +.kldvkyjdvwcvp.online
@@ -62284,7 +62286,6 @@ eu-nilupool.ddns.net
 +.ldoxmvlsvzban.online
 +.ldpdhccjkfarr.online
 +.ldqkyedvfepop.online
-+.ldsoytbpkvwdo.online
 +.league-of-legends.ru
 +.leaktrailercondo.com
 +.leakwivesshuffle.com
@@ -68562,6 +68563,7 @@ eu-nilupool.ddns.net
 +.iylwnmnnchzkq.website
 +.iypxxhjdiwggg.website
 +.iyxkoshoagpfc.website
++.izajkscdhtevw.website
 +.izccryctmxtwb.website
 +.izdonegkaboga.website
 +.izi.soricicrocanti.ro
@@ -68618,6 +68620,7 @@ eu-nilupool.ddns.net
 +.jjhimn.skincity.co.uk
 +.jjkcvjpoyplou.website
 +.jjpqqbxodpnwc.website
++.jkidyvivlrdaf.website
 +.jkmdfnarliyun.website
 +.jkvbegvzzmrsn.website
 +.jlxhkr.theifriend.com
@@ -69852,7 +69855,6 @@ eu-nilupool.ddns.net
 +.pdkxnkjozibbf.website
 +.pdmsfgexdsxvl.website
 +.pdpohrkfxrxrz.website
-+.pdqdzdahwiowl.website
 +.peanthnakptaw.website
 +.peanutrefusesplit.com
 +.peasgutsprogramme.com
@@ -77512,6 +77514,7 @@ openburstpool.ddns.net
 +.kjsdfnjkenki.media4u.pl
 +.kkgyqe.worldwine.com.br
 +.klipzt.tokyostyle.co.jp
++.klongwhiddedpuruha.cyou
 +.kmhkig.infocasas.com.py
 +.knga.kekanaturals.co.uk
 +.knight.therapidmind.com
@@ -78049,7 +78052,6 @@ openburstpool.ddns.net
 +.organicextentbounds.com
 +.organichealthportal.com
 +.organicmission.ogee.com
-+.organicparotisorias.cfd
 +.organikusok.blogspot.hu
 +.organizedinsidewall.com
 +.orientationpour-tous.fr
@@ -96017,7 +96019,6 @@ d3ddidv77grh0f.cloudfront.net
 +.xtl._domainkey.rewards.dailypay.com
 +.xtl._domainkey.walmartmoneycard.com
 +.xtl2._domainkey.refer.starbucks.com
-+.ye4e5zkg4u6zi6x3p7rzz59wqrviqgq.cfd
 +.ykokfoyc1v.v6fxgcjj6wk58ftiytm.cyou
 +.ykukx.1z962eokwutk7rpi2n6legcm.cyou
 +.ylfqm4t2b9j.1qmhlwziglrh1x4hbr.cyou
