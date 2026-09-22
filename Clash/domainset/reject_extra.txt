@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-09-22T09:59:40.884Z
-# Size: 79493
+# Last Updated: 2026-09-22T20:11:11.152Z
+# Size: 79504
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -32,7 +32,7 @@
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt
 #   - https://urlhaus-filter.pages.dev/urlhaus-filter-domains-online.txt
 #
-# $content-hash-v1$:jk83S1yX-t3NSpvRpMCCyNz9F-_x-vOdhj5LVVTuS04$
+# $content-hash-v1$:BDRvZY850-D3-pcnRxR0RB6kbYF6oJ0LE05NqfUFpgs$
 #########################################
 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 +.4.fo
@@ -3769,6 +3769,7 @@
 +.aistat.net
 +.aizmer.com
 +.aj0453.top
++.aj2663.bid
 +.ajalis.com
 +.ajouny.com
 +.akanoo.com
@@ -17014,6 +17015,7 @@ scx.ddns.net
 +.orlovskyi.com
 +.orphanrod.com
 +.orrington.com
++.osmmfycaqh.in
 +.ostogroup.com
 +.otherbent.com
 +.otletdivak.hu
@@ -31636,6 +31638,7 @@ scx.ddns.net
 +.networkmanag.com
 +.networks1000.net
 +.neutralpages.com
++.nevalyashka.link
 +.newarrivals.club
 +.newcomerecho.com
 +.newgatemoble.com
@@ -38460,6 +38463,7 @@ onlycash.ddns.net
 +.vayvonnhanh.click
 +.vbeeeleqvjelq.top
 +.vbqrzzrmbrvbl.top
++.vbqrzzrmbrvwj.top
 +.vcbdigliebrnk.com
 +.vcbdigtylbrnk.com
 +.vegalforniture.it
@@ -41138,6 +41142,7 @@ bowserlab.ddns.net
 +.filter.rtbnext.com
 +.filter.thing02.com
 +.filter.vashoot.com
++.filterfissury.cyou
 +.finallytrained.com
 +.finderliminal.qpon
 +.findingviolon.shop
@@ -41519,6 +41524,7 @@ bowserlab.ddns.net
 +.gomoviescdn.online
 +.gongingscreel.cyou
 +.gonionbobbles.qpon
++.goodermorpion.cyou
 +.goodiesreaches.cfd
 +.goodnesstamper.com
 +.google-ads.hara.vn
@@ -46304,6 +46310,7 @@ oceansail.ddns.net
 +.wxwdpvolofgdt.site
 +.wyaiuzyqwbuvt.site
 +.wygcjzjkryxfv.site
++.wyjjhagykrgpak.com
 +.wylmptdfafbkh.site
 +.wyojunmhapedc.site
 +.wysepool.giize.com
@@ -53939,6 +53946,7 @@ vbk-reb0rn.ddns.net
 +.yuwbmzjqimdmn.space
 +.yuwseujcjavak.space
 +.yuyykdjtkdpat.store
++.yuzebnpwgmbmu.space
 +.yuztrvzsjtfgo.space
 +.yv.rethepretil.qpon
 +.yvipfjvniaonh.space
@@ -54162,6 +54170,7 @@ vbk-reb0rn.ddns.net
 +.8lrmj4k28nte2v5.rest
 +.8q5urel9y5v5h5kj.cfd
 +.93jdm.zx7mcnbcw.bond
++.9vwho9reuqnpb231.cfd
 +.a.ad.playstation.net
 +.a.pinayviralsexx.com
 +.a135.fox25boston.com
@@ -59467,6 +59476,7 @@ eu-nilupool.ddns.net
 +.winterdistortkey.com
 +.wipehumorousbeen.com
 +.withdraw-bittrex.com
++.witpossiesstaup.qpon
 +.wjmghujaluysu.online
 +.wjopvkcozzxif.online
 +.wjtgwtedzibzu.online
@@ -63134,6 +63144,7 @@ eu-nilupool.ddns.net
 +.pvhlrsqduzzfv.website
 +.pwbxyinigxrju.website
 +.pwjfuxffzbdxo.website
++.pxcqmutuz4tv1ggn.rest
 +.pxgruigwgorib.website
 +.pxtxitotxkkrk.website
 +.pynnywwoczyub.website
